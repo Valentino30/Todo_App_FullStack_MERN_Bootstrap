@@ -1,3 +1,6 @@
+# Todo_FullStack_MERN_App_Bootstrap
+This is a simple todo app built with the help of "CodingTheSmartWay.com". The app makes use of a complete MERN infrastructure to add, list, modify and delete todo items. Source: https://youtu.be/qvBZevK1HPo
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
